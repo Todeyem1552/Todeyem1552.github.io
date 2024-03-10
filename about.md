@@ -12,8 +12,8 @@ Being a generalist and understanding early that my career as an accountant only 
 This has resulted in me acquiring skills like Data science and analytics, project management, cloud engeering and software developement.
 
 ### Contact
-linkedIn: https://www.linkedin.com/in/tobiloba-odeyemi-15ab17166/
-Emial Address: todeyemi27@gmail.com
-Phone Number: 09072932023
+linkedIn: https://www.linkedin.com/in/tobiloba-odeyemi-15ab17166/  
+Emial Address: todeyemi27@gmail.com  
+Phone Number: 09072932023  
 
 Hi, nice to meet you.
